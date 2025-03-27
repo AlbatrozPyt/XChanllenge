@@ -6,6 +6,7 @@
 
 <style scoped>
 #container {
+    width: 100%;
     margin: auto 5%;
 }
-</style>
+</style>        
